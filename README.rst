@@ -1,5 +1,8 @@
 A set of tools to facilitate django development
 
+installation:
+    pip install -r https://github.com/Technigami/django-wd40/archive/master.zip
+
 - override for startapp:
 
 usage:  
